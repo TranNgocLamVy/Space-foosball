@@ -3,6 +3,15 @@
 ## Overview  
 **Space Foosball** is a fast-paced 2D arcade game where two players control some **child ships** to deflect meteors into the opponent's **motherships** ship. The game features a simple yet effective physics system that ensures accurate deflection of meteors.  
 
+## Screenshots
+
+### Menu
+![Menu](assets/screenshots/Screenshot%202025-03-28%20142137.png)
+
+### Game
+![Game](assets/screenshots/Screenshot%202025-03-28%20142148.png) 
+![Game](assets/screenshots/Screenshot%202025-03-28%20142245.png) 
+
 ## Features  
 - **Multiplayer**: Two players compete head-to-head.  
 - **Physics-based Gameplay**: Meteors react dynamically to collisions.  
@@ -40,7 +49,7 @@
 
 - **Player 2 (Right Side)**:  
   - Control child ships: `Up / Down Arrow`  
-  - Switch ships : `Left / Right Arrow`  
+  - Switch ships : `Left / Right Arrow`
 
 ## License  
 This project is released under the **MIT License**. Feel free to modify and distribute it.  
